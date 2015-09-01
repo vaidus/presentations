@@ -7,16 +7,17 @@ published: true
 
 # An Inroduction to the WordPress REST API {#Cover}
 
-*Gaurav Pareek: WordPress Developer, Free Software advocate, Doctor Who fan, and all around geek*
+###Gaurav Pareek  
+*WordPress Developer, Free Software advocate, Doctor Who fan, and all around geek*
 
 ![](pictures/cover.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
+<!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
 
 ## **प्रतिनिधित्ववादी स्थिति स्थानान्तरण**
 
 
-## Shower Key Features
+## Use cases
 
 1. Built on HTML, CSS and vanilla JavaScript
 2. All modern browsers are supported
