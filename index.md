@@ -7,8 +7,9 @@ published: true
 
 # An Introduction to the WordPress REST API {#Cover}
 
-###Gaurav Pareek  
-*WordPress Developer, Free Software advocate, Doctor Who fan, and all around geek*
+*Gaurav Pareek*  
+*@grvruulz*  
+*+GauravPareek*
 
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
@@ -17,33 +18,33 @@ published: true
 ## **प्रतिनिधित्ववादी स्थिति स्थानान्तरण**
 
 
-## Use cases
+## **Use cases**
 
-1. Built on HTML, CSS and vanilla JavaScript
-2. All modern browsers are supported
-3. Slide themes are separated from engine
-4. Fully keyboard accessible
-5. Printable to PDF
+## Consuming Content
 
-{:.note}
-Shower ['ʃəuə] noun. A person or thing that shows.
+1. Modern, detached web frontends
+2. …Mobile apps
+3. …External integrations
+4. …Completely new and application specific admin panels
+5. …Monitoring dashboards
 
 
-## Plain Text on Your Slides
+## Creating Content
 
-Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, *quis nostrud* exercitation ullamco laboris **nisi ut aliquip** ex ea commodo consequat. Duis aute irure <i>dolor</i> in reprehenderit in voluptate velit esse cillum <b>dolore</b> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in `<culpa>` qui officia deserunt mollit anim id est laborum.
+1. Desktop blog writing apps
+2. …Social networking apps
+3. …Bots
+4. …External Integrations
+5. …Management tools
 
-## All Kind of Lists
 
-1. Simple lists are marked with bullets
-2. Ordered lists begin with a number
-3. You can even nest lists one inside another
-    - Or mix their types
-    - But do not go too far
-    - Otherwise audience will be bored
-4. Look, seven rows exactly!
+## The WordPress REST API
+- All of these use cases possible
+- Provides an extendable REST interface with a sane set of default endpoints
+- Provides way more flexibility for content Management
+- Provides flexibility of interfaces to a common, familiar backend
 
-## Serious Citations
+## Hello
 
 <figure markdown="1">
 
@@ -52,28 +53,7 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 <figcaption>Marcus Tullius Cicero</figcaption>
 </figure>
 
-## Code Samples
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
-        <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
-
-## Even Tables
-
-|  Locavore      | Umami       | Helvetica | Vegan     |
-+----------------|-------------|-----------|-----------+
-|* Fingerstache *| Kale        | Chips     | Keytar    |
-|* Sriracha     *| Gluten-free | Ennui     | Keffiyeh  |
-|* Thundercats  *| Jean        | Shorts    | Biodiesel |
-|* Terry        *| Richardson  | Swag      | Blog      |
-
-It’s good to have information organized.
-
-## Pictures
+## **Demo Time**  
 {:.cover #Picture}
 
 ![](pictures/picture.jpg)
