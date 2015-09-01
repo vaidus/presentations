@@ -1,11 +1,11 @@
 ---
-layout: bright
+layout: slab
 style: "\n#Cover h2 {\n    margin:30px 0 0;\n    color:#FFF;\n    text-align:center;\n    font-size:70px;\n    }\n#Cover p {\n    margin:10px 0 0;\n    text-align:center;\n    color:#FFF;\n    font-style:italic;\n    font-size:20px;\n    }\n    #Cover p a {\n        color:#FFF;\n        }\n#Picture h2 {\n    color:#FFF;\n    }\n#SeeMore h2 {\n    font-size:100px\n    }\n#SeeMore img {\n    width:0.72em;\n    height:0.72em;\n    }\n"
 published: true
 ---
 
 
-# An Inroduction to the WordPress REST API {#Cover}
+# An Introduction to the WordPress REST API {#Cover}
 
 ###Gaurav Pareek  
 *WordPress Developer, Free Software advocate, Doctor Who fan, and all around geek*
