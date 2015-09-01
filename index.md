@@ -1,16 +1,19 @@
 ---
-layout: ribbon
+layout: bright
 style: "\n#Cover h2 {\n    margin:30px 0 0;\n    color:#FFF;\n    text-align:center;\n    font-size:70px;\n    }\n#Cover p {\n    margin:10px 0 0;\n    text-align:center;\n    color:#FFF;\n    font-style:italic;\n    font-size:20px;\n    }\n    #Cover p a {\n        color:#FFF;\n        }\n#Picture h2 {\n    color:#FFF;\n    }\n#SeeMore h2 {\n    font-size:100px\n    }\n#SeeMore img {\n    width:0.72em;\n    height:0.72em;\n    }\n"
 published: true
 ---
 
 
-# An Inroduction to the WordPress REST API{#Cover}
+# An Inroduction to the WordPress REST API {#Cover}
 
 *Gaurav Pareek: WordPress Developer, Free Software advocate, Doctor Who fan, and all around geek*
 
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
+
+
+## **प्रतिनिधित्ववादी स्थिति स्थानान्तरण**
 
 
 ## Shower Key Features
