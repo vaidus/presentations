@@ -17,6 +17,12 @@ published: true
 
 ## **प्रतिनिधित्ववादी स्थिति स्थानान्तरण**
 
+## What are we going to learn today?
+
+1. …Features/use cases of a modern internet application
+2. …What is the WordPress REST API
+3. …How to leverage the REST API
+
 
 ## **Use cases**
 
@@ -39,35 +45,22 @@ published: true
 
 
 ## The WordPress REST API
-- All of these use cases possible
-- Provides an extendable REST interface with a sane set of default endpoints
-- Provides way more flexibility for content Management
-- Provides flexibility of interfaces to a common, familiar backend
+- …All of these use cases possible
+- …Provides an extendable REST interface with a sane set of default endpoints
+- …Provides way more flexibility for content Management
+- …Provides flexibility of interfaces to a common, familiar backend
 
-## Hello
-
-<figure markdown="1">
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
-
-<figcaption>Marcus Tullius Cicero</figcaption>
-</figure>
-
-## **Demo Time**  
-{:.cover #Picture}
+## Demo Time  
+{:.shout .cover #Picture}
 
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
-## **You can even shout this way**
+## **Q&A**
 
-## Inner Navigation
 
-1. Lets you reveal list items one by one
-2. …To keep some key points
-3. …In secret from audience
-4. …But it will work only once
-5. …Nobody wants to see the same joke twice
-
-## ![](http://shwr.me/pictures/logo.svg) [See more on GitHub](https://github.com/shower/shower/)
+## Thank You  
+Follow me on twitter : @grvruulz  
+Circle me on Google+ : +Gaurav Pareek  
+ [See more on GitHub](https://github.com/shower/shower/)
 {:.shout #SeeMore}
