@@ -8,14 +8,16 @@ published: true
 # An Introduction to the WordPress REST API {#Cover}
 
 *Gaurav Pareek*  
-*@grvruulz*  
+*@grvruulz*
 *+GauravPareek*
+{:.big}
 
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
 
-## **प्रतिनिधित्ववादी स्थिति स्थानान्तरण**
+## प्रतिनिधित्ववादी स्थिति स्थानान्तरण
+{:.shout .hindi}
 
 ## What are we going to learn today?
 
@@ -62,5 +64,5 @@ published: true
 ## Thank You  
 Follow me on twitter : @grvruulz  
 Circle me on Google+ : +Gaurav Pareek  
- [See more on GitHub](https://github.com/shower/shower/)
+[See more on GitHub](https://github.com/shower/shower/)
 {:.shout #SeeMore}
