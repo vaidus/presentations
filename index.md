@@ -67,5 +67,4 @@ Find more info at http://grv.rocks/wcpune2015
 ## Thank You  
 Follow me on twitter : @grvruulz  
 Circle me on Google+ : +Gaurav Pareek  
-[See more on GitHub](https://github.com/shower/shower/)
 {:.shout #SeeMore}
