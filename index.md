@@ -8,7 +8,7 @@ published: true
 # An Introduction to the WordPress REST API {#Cover}
 
 *Gaurav Pareek*  
-*@grvruulz*
+*@grvruulz*  
 *+GauravPareek*
 {:.big}
 
@@ -42,14 +42,14 @@ published: true
 1. Desktop blog writing apps
 2. …Social networking apps
 3. …Bots
-4. …External Integrations
+4. …External integrations
 5. …Management tools
 
 
 ## The WordPress REST API
 - …All of these use cases possible
 - …Provides an extendable REST interface with a sane set of default endpoints
-- …Provides way more flexibility for content Management
+- …Provides way more flexibility for content management
 - …Provides flexibility of interfaces to a common, familiar backend
 
 ## Demo Time  
@@ -61,10 +61,11 @@ published: true
 ## **Q&A**
 
 ## More
-Find more info at http://grv.rocks/wcpune2015
-
+Find more info at [http://grv.rocks/wcpune2015](http://grv.rocks/wcpune2015)  
+Find me on Github : [grvrulz](https://github.com/grvrulz)  
+Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)  
+Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
+{:.shout}
 
 ## Thank You  
-Follow me on twitter : @grvruulz  
-Circle me on Google+ : +Gaurav Pareek  
 {:.shout #SeeMore}
