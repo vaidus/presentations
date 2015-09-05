@@ -60,6 +60,9 @@ published: true
 
 ## **Q&A**
 
+## More
+Find more info at http://grv.rocks/wcpune2015
+
 
 ## Thank You  
 Follow me on twitter : @grvruulz  
