@@ -48,7 +48,7 @@ published: true
 
 ## The WordPress REST API
 - …All of these use cases possible
-- …Provides an extendable REST interface with a sane set of default endpoints
+- …Provides an extensible REST interface with a sane set of default endpoints
 - …Provides way more flexibility for content management
 - …Provides flexibility of interfaces to a common, familiar backend
 
@@ -67,5 +67,5 @@ Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)
 Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
 {:.shout}
 
-## Thank You  
-{:.shout #SeeMore}
+## धन्यवाद
+{:.shout .hindi #SeeMore}
