@@ -5,67 +5,43 @@ published: true
 ---
 
 
-# WordPress Delhi  
-Keynote {#Cover}
+# Welcome WordPress Delhi {#Cover}
 
 *Gaurav Pareek*  
-*@grvruulz*  
-*+GauravPareek*
 {:.big}
 
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
+## WordPress and the GPL : The 4 freedoms
 
-## प्रतिनिधित्ववादी स्थिति स्थानान्तरण
-{:.shout .hindi}
+1. …Freedom 0 : Freedom to use
+2. …Freedom 1 : Freedom to study and modify
+3. …Freedom 2 : Freedom to redistribute in original form
+4. …Freedom 3 : Freedom to distribute modified versions
 
-## What are we going to learn today?
+## Communities and their role in projects like WordPress
+{:.shout}
 
-1. …Features/use cases of a modern internet application
-2. …What is the WordPress REST API
-3. …How to leverage the REST API
+## Why this meetup?
 
+1. …To create a sense of collaboration in WordPress in the NCR area
+2. …To serve as an official WordPress community in the area
+3. …To provide a platform of learning and knowledge sharing for people interested in WordPress
 
-## **Use cases**
+## What we're going to do?
 
-## Consuming Content
+1. …Hold monthly meetups, mostly in a talk/speech/workshop format.
+2. …Allow members to hold their own, small, localized over-the-coffee style meetups.
+3. …Occasionally organize full fledged hackathons/buildathons for developers.
+4. …Occasionally organize contributor workshops for contributing to the WordPress project.
 
-1. Modern, detached web frontends
-2. …Mobile apps
-3. …External integrations
-4. …Completely new and application specific admin panels
-5. …Monitoring dashboards
-
-
-## Creating Content
-
-1. Desktop blog writing apps
-2. …Social networking apps
-3. …Bots
-4. …External integrations
-5. …Management tools
-
-
-## The WordPress REST API
-- …All of these use cases possible
-- …Provides an extensible REST interface with a sane set of default endpoints
-- …Provides way more flexibility for content management
-- …Provides flexibility of interfaces to a common, familiar backend
-
-## Demo Time  
-{:.shout .cover #Picture}
-
-![](pictures/picture.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
 
 ## **Q&A**
 
 ## More
-Find more info at [http://grv.rocks/wcpune2015](http://grv.rocks/wcpune2015)  
-Find me on Github : [grvrulz](https://github.com/grvrulz)  
-Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)  
-Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
+Find more info at [http://www.meetup.com/WordPress-New-Delhi/](http://www.meetup.com/WordPress-New-Delhi/)  
+Find us on Facebook : [https://www.facebook.com/groups/WordPressNewDelhi/](https://www.facebook.com/groups/WordPressNewDelhi/)  
 {:.shout}
 
 ## धन्यवाद
