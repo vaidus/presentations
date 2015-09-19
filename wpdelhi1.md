@@ -5,7 +5,8 @@ published: true
 ---
 
 
-# An Introduction to the WordPress REST API {#Cover}
+# WordPress Delhi  
+Keynote {#Cover}
 
 *Gaurav Pareek*  
 *@grvruulz*  
