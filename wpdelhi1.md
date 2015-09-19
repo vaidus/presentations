@@ -9,9 +9,11 @@ published: true
 
 *Gaurav Pareek*  
 {:.big}
-// Image will be replaced by something with sponsor logos
+
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
+// Image will be replaced by something with sponsor logos
+
 
 ## The sponsors
 1. Names of sponsors
