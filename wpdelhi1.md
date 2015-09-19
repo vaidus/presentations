@@ -5,13 +5,21 @@ published: true
 ---
 
 
-# Welcome WordPress Delhi {#Cover}
+# Welcome to WordPress Delhi {#Cover}
 
 *Gaurav Pareek*  
 {:.big}
-
+// Image will be replaced by something with sponsor logos
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
+
+## The sponsors
+1. Names of sponsors
+2. Will be here
+
+## The organizers
+1. Names of organizers
+2. Will be here
 
 ## WordPress and the GPL : The 4 freedoms
 
