@@ -34,7 +34,8 @@ published: true
 
 ## More
 
-Follow me on twitter : [@vaidus](https://twitter.com/vaidus)  
+Follow me on twitter : [@vaidus](https://twitter.com/vaidus)
+Blog : [vaidusworld.com] (http://vaidusworld.com)
 {:.shout}
 
 ## धन्यवाद
