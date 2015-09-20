@@ -16,7 +16,7 @@ published: true
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
-## What we are going to talk about?
+## What we are going to talk?
 {:.shout}
 
 ## What are the key essentials for blogging?
