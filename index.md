@@ -5,66 +5,36 @@ published: true
 ---
 
 
-# An Introduction to the WordPress REST API {#Cover}
+# Rules For Bloggers While Using WordPress {#Cover}
 
-*Gaurav Pareek*  
-*@grvruulz*  
-*+GauravPareek*
+*Vaidehi*  
+*@vaidus*  
+
 {:.big}
 
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
 
-## प्रतिनिधित्ववादी स्थिति स्थानान्तरण
-{:.shout .hindi}
+## Introduction To Blogging
+{:.shout}
 
-## What are we going to learn today?
+## Essentials For Blogging
 
-1. …Features/use cases of a modern internet application
-2. …What is the WordPress REST API
-3. …How to leverage the REST API
+1. …Keyword
+2. …Content length
+3. …Meta Description
+4. …Outbound Links
+5. …Flesch Reading Ease Test
+6. …Page Title
+7. …Plagiarism Check 
 
-
-## **Use cases**
-
-## Consuming Content
-
-1. Modern, detached web frontends
-2. …Mobile apps
-3. …External integrations
-4. …Completely new and application specific admin panels
-5. …Monitoring dashboards
-
-
-## Creating Content
-
-1. Desktop blog writing apps
-2. …Social networking apps
-3. …Bots
-4. …External integrations
-5. …Management tools
-
-
-## The WordPress REST API
-- …All of these use cases possible
-- …Provides an extensible REST interface with a sane set of default endpoints
-- …Provides way more flexibility for content management
-- …Provides flexibility of interfaces to a common, familiar backend
-
-## Demo Time  
-{:.shout .cover #Picture}
-
-![](pictures/picture.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
 
 ## **Q&A**
 
 ## More
-Find more info at [http://grv.rocks/wcpune2015](http://grv.rocks/wcpune2015)  
-Find me on Github : [grvrulz](https://github.com/grvrulz)  
-Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)  
-Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
+
+Follow me on twitter : [@vaidus](https://twitter.com/vaidus)  
 {:.shout}
 
 ## धन्यवाद
