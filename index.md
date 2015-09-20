@@ -5,21 +5,20 @@ published: true
 ---
 
 
-# Rules For Bloggers While Using WordPress {#Cover}
+# Essentials For Blogging {#Cover}
 
 *Vaidehi*  
-*@vaidus*  
+*@vaidus*
+*http://vaidusworld.com*
 
 {:.big}
 
 ![](pictures/cover.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
+## What we are going to talk about?
 
-## Introduction To Blogging
-{:.shout}
-
-## Essentials For Blogging
+## What are the key essentials for blogging?
 
 1. …Keyword
 2. …Content length
