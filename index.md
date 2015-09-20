@@ -8,7 +8,7 @@ published: true
 # Essentials For Blogging {#Cover}
 
 *Vaidehi*  
-*@vaidus*
+*@vaidus*  
 *http://vaidusworld.com*
 
 {:.big}
